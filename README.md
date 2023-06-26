@@ -1,6 +1,6 @@
 # MakeChangeProject_Version2
 
-# Description
+# Description:
 
 Make Change Version 2 is an improved version of the original Make Change project. This Java program is designed to assist cashiers in cash transactions by breaking down the denominations of the change owed to the customer. The following enhancements have been made in this version:
 
@@ -20,6 +20,6 @@ Make Change Version 2 is an improved version of the original Make Change project
 
 These changes enhance the functionality and usability of the Make Change program by introducing input validation, ensuring consistent formatting, and providing a more efficient and maintainable change breakdown logic.
 
-# Technologies Used
+# Technologies Used:
 
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
